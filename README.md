@@ -34,7 +34,7 @@
 ### 💫 About Me:
 Hi there, I'm **Easin** 👋  
 I'm a passionate software engineer focused on **web development**, **machine learning**, and **artificial intelligence**.  
-Currently working on a Django project called **Event Management**.  
+Currently working on a Django project called **Twenty_Four_7 News project**.  
 Actively involved in **competitive programming** and constantly striving to improve my skills!
 
 ---
